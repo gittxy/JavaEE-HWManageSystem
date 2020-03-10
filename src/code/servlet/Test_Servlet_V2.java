@@ -1,4 +1,4 @@
-package code.servlet;
+﻿package code.servlet;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServlet;
@@ -8,10 +8,10 @@ import java.io.IOException;
 
 /**
  * @Author:txy
- * @Date:created in 8:46 2020/3/8
+ * @Date:created in 8:50 2020/3/8
  */
 
-//HttpServlet实现了http请求
+
 public class Test_Servlet_V2 extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

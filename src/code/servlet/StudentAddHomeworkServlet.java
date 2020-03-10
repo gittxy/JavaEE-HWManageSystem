@@ -1,4 +1,4 @@
-package code.servlet;
+﻿package code.servlet;
 
 import code.jdbc.HomeworkJdbc;
 import code.model.StudentHomework;
@@ -14,7 +14,7 @@ import java.sql.Timestamp;
 
 /**
  * @Author:txy
- * @Date:created in 8:46 2020/3/8
+ * @Date:created in 8:50 2020/3/8
  */
 @WebServlet("/submit")
 public class StudentAddHomeworkServlet extends HttpServlet {

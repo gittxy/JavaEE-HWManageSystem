@@ -1,4 +1,4 @@
-package code.servlet;
+﻿package code.servlet;
 
 import code.jdbc.StudentJdbc;
 import code.model.Student;
@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @Author:txy
- * @Date:created in 8:46 2020/3/8
+ * @Date:created in 8:50 2020/3/8
  */
 @WebServlet("/addStudent")
 public class TeacherAddStudentServlet extends HttpServlet {
