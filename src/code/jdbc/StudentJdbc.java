@@ -1,4 +1,4 @@
-package code.jdbc;
+﻿package code.jdbc;
 
 import code.model.Student;
 
@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @Author:txy
- * @Date:created in 8:46 2020/3/8
+ * @Date:created in 8:50 2020/3/8
  */
 public class StudentJdbc {
     //老师添加学生
