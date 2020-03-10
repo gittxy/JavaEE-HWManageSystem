@@ -12,7 +12,6 @@ import java.io.IOException;
  * @Date:created in 8:50 2020/3/8
  */
 @WebServlet("/testServletV3")
-//HttpServlet实现了http请求
 public class Test_Servlet_V3 extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
